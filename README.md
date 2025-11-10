@@ -246,10 +246,17 @@ SELECT name FROM Company WHERE name = 'Luxoft';
 
 ## 3. How to Run the Application in VSCode
 
+Open the Terminal Window in VSCode and execute this command:
 
+```
+mvn exec:java
+```
+
+<img width="1919" height="771" alt="image" src="https://github.com/user-attachments/assets/7581a172-9c2a-49d4-a90f-413a50e3e3d0" />
 
 ## 4. Application Output (MySQL database)
 
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6d3e87c7-b7b0-454c-8617-a79e25a4bc5d" />
 
 
 
